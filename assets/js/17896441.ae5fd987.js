@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkblogs=globalThis.webpackChunkblogs||[]).push([[401],{3054(s,l,a){a.r(l),a.d(l,{default:()=>h});a(6540);var b=a(8252),e=a(4848);const h=s=>(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(b.A,{...s})})}}]);
